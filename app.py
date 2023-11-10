@@ -182,8 +182,8 @@ class App(UserControl):
                     )
                 
                   )
-                 
-                 ]
+                
+                ]
               )
             ),
             
@@ -236,7 +236,7 @@ class App(UserControl):
                     )
                 
                   )
-                 ]
+                ]
               )
             ),
 
@@ -993,7 +993,6 @@ class App(UserControl):
         ]
       ),
     )
-                       
     
     self.settings_sidebar_item  =  Container(
       bgcolor=s_btn_h_c,
